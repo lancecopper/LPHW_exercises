@@ -43,3 +43,7 @@ venv
 
 # environmental vars
 .env
+
+# temp file
+*.*~
+*~
